@@ -1,0 +1,57 @@
+# **Preface** {.unnumbered}
+
+![](images/_page_0_Picture_3.jpeg)
+
+Introduction to Human Biology Laboratory Workbook; an Open Education Resource. First Edition © 2024 by George Mateja is licensed under CC BY-SA 4.0. To view a copy of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/>
+
+### Original page numbers {.unnumbered}
+
+| Chapter | Title                                                  | Page |
+|---------|--------------------------------------------------------|------|
+| 0       | Acknowledgements                                       | iii  |
+| 1       | Anatomical Language                                    |  1   |
+| 2       | Use of the Microscope                                  | 30   |
+| 3       | Cells                                                  | 40   |
+| 4       | Histology/Tissues                                      | 73   |
+| 5       | Integumentary System                                   | 95   |
+| 6       | Skeletal Terms, Bone Histology, and Microanatomy       | 123  |
+| 7       | Skeletal System –Axial Division                        | 151  |
+| 8       | Skeletal System - Appendicular Division                | 193  |
+| 9       | The Articulations and Joints                           | 224  |
+| 10      | Skeletal Muscle Histology and Microanatomy             | 245  |
+| 11      | Muscular system; Gross Anatomy                         | 268  |
+| 12      | Nervous System; Microanatomy                           | 305  |
+| 13      | Nervous System; Gross Anatomy                          | 326  |
+| 14      | Special Senses                                         | 375  |
+| 15      | Endocrine System                                       | 409  |
+| 16      | Cardiovascular System: The Blood and Heart             | 440  |
+| 17      | Cardiovascular system; The Arteries and Veins          | 474  |
+| 18      | Lymphatic System                                       | 509  |
+| 19      | Respiratory System                                     | 531  |
+| 20      | Digestive System                                       | 561  |
+| 21      | Urinary System                                         | 612  |
+| 22      | Reproductive System: Male Reproductive System          | 643  |
+| 23      | Reproductive System: Female Reproductive System        | 663  |
+|         | Attributions                                           | 692  |
+
+# Acknowledgments {.unnumbered}
+
+This manual includes original content by George Mateja, Professor of Biology at Community College of Baltimore County. Its creation also contains a variety of remixed and revised content from other resources. These sources are noted in the attributions section for each lab.
+
+A considerable amount of gratitude is owed to those who have offered their time to review this work. They have generously offered their time, expertise, and ideas to assist in the creation and/or editing of this work.
+
+-   Julie Robinson, DC. River Valley Community College
+-   Christine Mirbaha, Community College of Baltimore County
+-   Michael Losinger, Community College of Baltimore County
+
+I would like to thank the library staff who supported the creation of this work. Their role as advisors to answer questions concerning copyright and attribution questions patiently and earnestly in a timely manner was greatly appreciated.
+
+-   Jenn Ditkoff, Head Librarian, Dundalk
+-   Jean Boggs, Reference Librarian
+-   Shaune Pyle, OER and Online Learning Librarian
+-   Cheryl Kantorski, Administrative Support Assistant III; Library Services
+
+This lab manual was written for a one-semester Anatomy and Physiology course such as the Biology 109 Introduction to Human Biology taught at the Community College of Baltimore County. This workbook is written to complement a one-semester Anatomy and Physiology text. The subject material is based on the course objectives developed by the Community College of Baltimore County's Biology 109 course committee.
+
+The completion of this work was supported by a Community College of Baltimore County Summer Grant during the summer of 2024. A special note of thanks goes to President Sandra Kurtinitis, Ph.D. and the Provost & Vice President of Academics and Student Joaquin Martinez, Ph.D. of the Community College of Baltimore County for their constant support and encouragement for those who create OER and open pedagogy curriculum.
+
